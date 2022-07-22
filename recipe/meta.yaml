@@ -31,6 +31,7 @@ requirements:
     - tifffile
     - qtpy
     - napari
+    - tqdm
 
 test:
   imports:
